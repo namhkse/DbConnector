@@ -1,1 +1,2 @@
 // db.c
+// Support NoSQL
